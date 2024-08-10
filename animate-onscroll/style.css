@@ -64,7 +64,7 @@ footer {
 @keyframes onShow {
   from {
     scale: 0.5;
-    opacity: 0.5;
+    opacity: 0;
   }
   to {
     scale: 1;
